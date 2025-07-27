@@ -334,17 +334,3 @@ keywords_list_net = unified_data['reference_data']['keywords']
 my_autocomplete_list = unified_data['reference_data']['keywords']
 author_list = unified_data['reference_data']['authors']
     
-# Display summary statistics
-# print("Dataset Summary:")
-# print(f"- Number of papers: {len(publications)}")
-# print(f"- Number of authors: {len(meta_data)}")
-# print(f"- Number of collaborations: {len(net_data)}")
-# print(f"- Number of institutions: {len(affiliations)}")
-# print(f"- Number of keywords: {len(keywords)}")
-# Show sample data
-# print("\nSample publications:")
-# print(publications[['TI', 'Author', 'Affiliation_clean']].head())
-# print("\nSample collaborations:")
-# print(net_data[['Author1', 'Author2', 'Nb_co_publications']].head())
-# print("\nSample institution-keyword data:")
-# print(kwss2.head())
