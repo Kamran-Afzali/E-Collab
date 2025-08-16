@@ -1,4 +1,4 @@
-# Research Network Analysis Dashboard
+# E-Collab Network Analysis Dashboard
 
 A comprehensive interactive dashboard for analyzing research collaborations and institutional networks. This application provides two main analysis modules: Network Analysis for exploring author collaborations, and Institution Analysis for examining research patterns across academic institutions.
 
